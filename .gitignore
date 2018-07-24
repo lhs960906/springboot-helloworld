@@ -5,6 +5,9 @@
 *.log
 
 # BlueJ files
+*.classpath
+*.project
+
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
